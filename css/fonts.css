@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "rsr";
+    src: url("../fonts/RobotoSlab-Regular.woff2") format("woff2"), url("../fonts/RobotoSlab-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "rsl";
+    src: url("../fonts/RobotoSlab-Light.woff2") format("woff2"), url("../fonts/RobotoSlab-Light.woff") format("woff");
+}
+
+@font-face {
+	font-family: "brook";
+	src: url("../fonts/brook.woff2") format("woff2"), url("../fonts/brook.woff") format("woff");
+}
+@font-face {
+	font-family: "fw";
+	src: url("../fonts/fw.woff2") format("woff2"), url("../fonts/fw.woff") format("woff");
+}
+
+@font-face {
+	font-family: "mt";
+	src: url("../fonts/mt.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Soledago";
+	src: url("../fonts/Soledago.woff2") format("woff2"), url("../fonts/Soledago.woff") format("woff");
+}
