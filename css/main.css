@@ -28,7 +28,7 @@ body {
 
 @media (max-width: 850px) {
 	.header {
-		height: 130px;
+		height: 150px;
 	}
 	.header .wrap {
 		padding: 0;	
@@ -744,7 +744,7 @@ table {
 	margin-left: 20px;
 	margin-bottom: 20px;
 	border: 1px solid #33478f;
-	font-size: 6px;	
+	font-size: 4px;	
 }
  img {
 	 width: 80px;
