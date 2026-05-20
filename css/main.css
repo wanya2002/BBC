@@ -27,6 +27,9 @@ body {
 }
 
 @media (max-width: 850px) {
+	.header {
+		height: 110px;
+	}
 	.header .wrap {
 		padding: 0;	
 	}
@@ -104,14 +107,14 @@ h1 {
 	font-size: 450%;
 	font-family: brook;
 	margin-left: 100px;
-	color: #33478f;
+	color: #ffffff;
     text-align: center;
 	position: absolute;
 	z-index: 1;
 }
 
 h2 {
-	color: #33478f;
+	color: #ffffff;
 	display: block;
 	padding-top: 50px;
 	padding-bottom: 20px;
@@ -140,16 +143,16 @@ h2 {
 @media (max-width: 700px) {
 	
 	.banner {
-		height: 200px;
+		height: 100px;
 	}
 
     h1 {
-		font-size: 200%;
+		font-size: 250%;
 		padding-top: 20px;
 	}
 	
 	h2 {
-		font-size: 150%;
+		font-size: 200%;
 		top: 20%;
 
 	}
@@ -231,6 +234,12 @@ h2 {
 	.top_2 {
 		font-size: 200%;
 	}
+	
+	.content .fourth {
+
+	margin-left: 20px;
+
+}
 	
 }
 
@@ -713,5 +722,33 @@ th {
 	 vertical-align: top;
 	 padding: 10px;
  }
+ 
+ @media (max-width: 850px) {
+	 
+	.content {
+		text-align: center;
+	}
+	 
+table {
+	color: #33478f;
+	width: 300px;
+	border-top: 7px solid #33478f;
+	border-collapse: collapse;
+	text-align: center;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	border: 1px solid #33478f;
+	font-size: 8px;	
+}
+ img {
+	 width: 80px;
+	 height: 100px;
+ }
+ 
+}
+
+ 
+ 
+
 
 
