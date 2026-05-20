@@ -735,7 +735,7 @@ th {
 		text-align: center;
 	}
 	 
-table {
+.pedsostav {
 	color: #33478f;
 	width: 200px;
 	border-top: 7px solid #33478f;
@@ -744,13 +744,23 @@ table {
 	margin-left: 20px;
 	margin-bottom: 20px;
 	border: 1px solid #33478f;
-	font-size: 8px;	
+	font-size: 6px;	
 }
  img {
 	 width: 60px;
 	 height: 80px;
  }
- 
+ .price_bbc {
+	color: #33478f;
+	width: 200px;
+	border-top: 7px solid #33478f;
+	border-collapse: collapse;
+	text-align: center;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	border: 1px solid #33478f;
+	font-size: 12px;	
+}
 }
 
  
