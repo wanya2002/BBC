@@ -28,7 +28,7 @@ body {
 
 @media (max-width: 850px) {
 	.header {
-		height: 150px;
+		height: 170px;
 	}
 	.header .wrap {
 		padding: 0;	
@@ -143,7 +143,7 @@ h2 {
 @media (max-width: 700px) {
 	
 	.banner {
-		height: 130px;
+		height: 150px;
 	}
 
     h1 {
@@ -747,9 +747,10 @@ th {
 	font-size: 6px;	
 }
  img {
-	 width: 60px;
-	 height: 80px;
+	 width: 50px;
+	 height: 65px;
  }
+ 
  .price_bbc {
 	color: #33478f;
 	width: 200px;
@@ -759,7 +760,7 @@ th {
 	margin-left: 20px;
 	margin-bottom: 20px;
 	border: 1px solid #33478f;
-	font-size: 12px;	
+	font-size: 10px;	
 }
 }
 
