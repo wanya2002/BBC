@@ -131,10 +131,13 @@ h2 {
 	
     h1 {
 		font-size: 350%;
+		margin-left: 20px;
 	}
 	
 	h2 {
 		font-size: 200%;
+		margin-left: 20px;
+		margin-bottom: 10px;
 		
 	}
 	
@@ -737,18 +740,18 @@ th {
 	 
 .pedsostav {
 	color: #33478f;
-	width: 200px;
+	width: 300px;
 	border-top: 7px solid #33478f;
 	border-collapse: collapse;
 	text-align: center;
 	margin-left: 20px;
 	margin-bottom: 20px;
 	border: 1px solid #33478f;
-	font-size: 6px;	
+	font-size: 4px;	
 }
  img {
-	 width: 50px;
-	 height: 65px;
+	 width: 40px;
+	 height: 55px;
  }
  
  .price_bbc {
@@ -757,7 +760,7 @@ th {
 	border-top: 7px solid #33478f;
 	border-collapse: collapse;
 	text-align: center;
-	margin-left: 20px;
+	margin-left: 10px;
 	margin-bottom: 20px;
 	border: 1px solid #33478f;
 	font-size: 10px;	
